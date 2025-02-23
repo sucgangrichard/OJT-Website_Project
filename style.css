@@ -89,3 +89,20 @@ header{
     z-index: -1;
     filter: blur(100px);
 }
+
+.bg-darkblue{
+    background-color: #0b0c10 !important;
+    color: white;
+}
+
+.secondary-heading{
+    font-size: 48px;
+    line-height: 1.2;
+    font-weight: 500;
+    margin-bottom: 24px;
+}
+
+.wallet-image{
+    height: 48px;
+    width: 48px;
+}
